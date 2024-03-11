@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Start");
             Console.WriteLine("Zadanie 1");
+            Console.WriteLine("Fixed");
         }
 
         public static void CalculateAvg(int[] arr)
