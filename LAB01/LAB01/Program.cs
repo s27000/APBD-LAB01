@@ -10,7 +10,7 @@
 
         public static void CalculateAvg(int[] arr)
         {
-
+            //code
         }
     }
 }
