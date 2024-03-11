@@ -7,5 +7,10 @@
             Console.WriteLine("Start");
             Console.WriteLine("Zadanie 1");
         }
+
+        public static void CalculateAvg(int[] arr)
+        {
+
+        }
     }
 }
