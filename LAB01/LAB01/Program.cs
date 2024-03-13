@@ -10,7 +10,7 @@
             Console.WriteLine("Ala ma kota");
         }
 
-        public static void CalculateAvg(int[] arr)
+        public static void CalculateAvg(int[] arrs)
         {
 
         }
