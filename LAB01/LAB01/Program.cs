@@ -10,11 +10,7 @@
             Console.WriteLine("Ala ma kota");
         }
 
-<<<<<<< HEAD
-        public static void CalculateMax(int[] arrs)
-=======
-        public static void CalculateMax(int[] arrs)
->>>>>>> main
+        public static void CalculateAvg(int[] arr)
         {
 
         }
